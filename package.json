@@ -1,14 +1,15 @@
 {
-  "name": "form-validation-lib",
+  "name": "@lbanc/simple-form-validation-lib",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
+  "description": "A simple form validation library.",
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": ["validation", "form", "validator", "javascript"],
+  "author": "LiviuB",
+  "license": "MIT",
+  
   "devDependencies": {
     "jest": "^29.7.0"
   }
